@@ -153,7 +153,7 @@ public abstract class RxFirebaseRecyclerAdapter<ViewHolder extends RecyclerView.
     * Returns the list of items of the adapter: can be useful when dealing with a configuration
     * change (e.g.: a device rotation).
     * Just save this list before destroying the adapter and pass it to the new adapter (in the
-    * constructor).
+    * constructor). changes
     *
     * @return the list of items of the adapter
     */
